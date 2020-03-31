@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="DBAsk">
+  <DataContextMoniker Name="/DBAskDataContext" />
+  <nestedChildShapes>
+    <classShape Id="a278a077-6200-44df-89c5-2c67f5b06cab" absoluteBounds="5.875, 1.375, 2, 6.3861311848958326">
+      <DataClassMoniker Name="/DBAskDataContext/tbl_User" />
+      <nestedChildShapes>
+        <elementListCompartment Id="509f5d5f-50cc-416b-be40-4c14abb7e1f2" absoluteBounds="5.89, 1.835, 1.9700000000000002, 5.826131184895833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="77554597-f622-46c8-939a-325b5861f09f" absoluteBounds="2.75, 0.875, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/DBAskDataContext/tbl_PasswordReset" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ba7f2807-d109-46c0-8918-bdd5d20b5ab6" absoluteBounds="2.7649999999999997, 1.335, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
